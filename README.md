@@ -1,4 +1,4 @@
-#1 Praticando CSS Grid Layout
+#Praticando CSS Grid Layout
 
 Colocando em prática um pouco do estudo/introdução sobre o módulo **grid layout** da CSS.
 
